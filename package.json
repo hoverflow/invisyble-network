@@ -1,0 +1,19 @@
+{
+  "name": "invisyble-network",
+  "version": "1.0.0",
+  "description": "invisyble network",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoverflow/invisyble-network.git"
+  },
+  "author": "hoverflow",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hoverflow/invisyble-network/issues"
+  },
+  "homepage": "https://github.com/hoverflow/invisyble-network#readme"
+}
